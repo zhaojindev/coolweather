@@ -6,10 +6,8 @@ public class Province extends DataSupport {
 
     private int id;
 
-    //省名字
     private String provinceName;
 
-    //省代号
     private int provinceCode;
 
     public int getId() {
